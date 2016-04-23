@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Frances Cole Photography]]></title>
         <description><![CDATA[Frances Cole Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frances-cole-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 23:59:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 23 Apr 2016 23:15:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frances-cole-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d7df97df-1af7-40eb-931b-08e9aa7bbbee.jpg">]]></description>
+            <link>https://thegrid.ai/frances-cole-photography/872a076a-8b2e-46a7-a12c-be77cd701756/index.html</link>
+            <guid isPermaLink="false">872a076a-8b2e-46a7-a12c-be77cd701756</guid>
+            <pubDate>Sat, 23 Apr 2016 23:15:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f8c3f6ea-eed9-495e-a123-38921559da1b.jpg">]]></description>
-            <link>undefinedc8439a6f-8301-48bc-ac0e-b68c987a0878/index.html</link>
+            <link>https://thegrid.ai/frances-cole-photography/c8439a6f-8301-48bc-ac0e-b68c987a0878/index.html</link>
             <guid isPermaLink="false">c8439a6f-8301-48bc-ac0e-b68c987a0878</guid>
             <pubDate>Fri, 22 Apr 2016 23:58:37 GMT</pubDate>
         </item>
