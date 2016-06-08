@@ -1,14 +1,28 @@
-layout_spectrum: 0.4514925
-color:
-  saturation: 0.7915112
-  lightness: 0.2117537
-  brandStrength: 1
-  brandColors:
-    - '#342C29'
-    - '#E9A9BC'
-    - '#E4D824'
-    - '#A46E5D'
-    - '#3C943A'
-  rhythmicContrast: 0.0442619
-typography_spectrum: 0.125
 name: Frances Cole Photography
+favicon: null
+layout_spectrum: 0.4514925
+typography_spectrum: 0.125
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#000000'
+    - '#ffffff'
+    - '#00280a'
+    - '#91aab1'
+    - '#008089'
+  brandStrength: 1
+  lightness: 0.2117537
+  saturation: 0
+  rhythmicContrast: 0.0442619
+purpose: []
